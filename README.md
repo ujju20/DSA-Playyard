@@ -1,6 +1,6 @@
 <img src="DSA-Playyard.png">
 
-Hey Everyone! 👋 DSA- PlayYard is the first open source project of Lets Grow More Community. It is the perfect place to start with or to test your DSA Skills.
+Hey Everyone! 👋 ****DSA- PlayYard**** is the first open source project of Lets Grow More Community. It is the perfect place to start with or to test your DSA Skills.
 
 ## Topics
 - [Array](https://github.com/LetsGrowMoreCommunity/DSA-Playyard/tree/main/Array)
