@@ -2,6 +2,10 @@
 
 Hey Everyone! 👋 ****DSA- PlayYard**** is the first open source project of Lets Grow More Community. It is the perfect place to start with or to test your DSA Skills.
 
+This Project contains all the basic and important topics of DSA so what are you waiting for Contribute to the project, and submit the solutions and have a chance to be featured as Contributor in this project.
+
+Happy Coding! 🙂
+
 ## Topics
 - [Array](https://github.com/LetsGrowMoreCommunity/DSA-Playyard/tree/main/Array)
 - [Binary Tree](https://github.com/LetsGrowMoreCommunity/DSA-Playyard/tree/main/Binary%20Tree)
